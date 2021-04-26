@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background-color: #ec407a;
+    font-family: sans-serif;
+    color: #fff;
+    user-select: none;
+  }
+  
+  /* Para que la imagen no se desborde */
+  img {
+    max-width: 100%;  
+  }
+  
